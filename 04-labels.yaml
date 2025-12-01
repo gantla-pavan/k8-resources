@@ -15,7 +15,7 @@
 
 apiversion: v1
 kind: Pod
-metada:
+metadata:
   name: frontend
   labels:
     project: roboshop
