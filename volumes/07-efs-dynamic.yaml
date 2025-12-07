@@ -28,3 +28,4 @@ spec:
   - name: nginx-html
     persistentVolumeClaim:
       claimName: efs-dynamic
+      
